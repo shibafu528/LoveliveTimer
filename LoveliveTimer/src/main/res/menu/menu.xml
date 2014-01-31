@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_set_timer"
+        android:icon="@drawable/ic_action_set_timer"
+        android:showAsAction="always|withText"
+        android:title="@string/action_set_timer" />
+    <item android:id="@+id/action_remove_timer"
+        android:icon="@drawable/ic_action_remove_timer"
+        android:showAsAction="always|withText"
+        android:title="@string/action_remove_timer" />
+    <item android:id="@+id/action_change_timer_sound"
+        android:icon="@drawable/ic_action_change_timer_sound"
+        android:showAsAction="always"
+        android:title="@string/action_change_timer_sound" />
+</menu>

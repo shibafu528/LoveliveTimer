@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">スクタイマー</string>
+
+    <string name="action_set_timer">タイマー設定</string>
+    <string name="action_remove_timer">タイマー解除</string>
+    <string name="action_change_timer_sound">通知音設定</string>
+    <string name="action_launch_game">ゲーム起動</string>
+    <string name="action_snooze_timer">もう一度設定(%1$dLP)</string>
+    <string name="action_pick_sound">通知音を選択</string>
+
+    <string name="word_about">頃に回復</string>
+    <string name="word_lp">LP &gt;&gt;</string>
+    <string name="word_time">00:00</string>
+
+    <string name="text_notify">LPが回復しました!</string>
+    <string name="text_set_timer">タイマーを設定しました -&gt; %1$s</string>
+    <string name="text_remove_timer">タイマーを解除しました</string>
+
+    <string name="pref_recent_lp">pref_recent_lp</string>
+    <string name="pref_timer_time">pref_timer_time</string>
+    <string name="pref_timer_lp">pref_timer_lp</string>
+    <string name="pref_timer_sound">pref_timer_sound</string>
+</resources>
