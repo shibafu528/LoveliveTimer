@@ -9,9 +9,12 @@
     <string name="action_pick_sound">通知音を選択</string>
 
     <string name="word_about">頃に回復</string>
-    <string name="word_lp">LP &gt;&gt;</string>
+    <string name="word_lp">LP</string>
+    <string name="word_lp_gt">LP &gt;&gt;</string>
     <string name="word_time">00:00</string>
+    <string name="word_save_and_restore">SAVE &amp; RESTORE ( TAP=RESTORE, LONG=SAVE )</string>
 
+    <string name="text_lp">%1$d LP</string>
     <string name="text_notify">LPが回復しました!</string>
     <string name="text_set_timer">タイマーを設定しました -&gt; %1$s</string>
     <string name="text_remove_timer">タイマーを解除しました</string>
@@ -20,4 +23,7 @@
     <string name="pref_timer_time">pref_timer_time</string>
     <string name="pref_timer_lp">pref_timer_lp</string>
     <string name="pref_timer_sound">pref_timer_sound</string>
+    <string name="pref_saved_lp_1">pref_saved_lp_1</string>
+    <string name="pref_saved_lp_2">pref_saved_lp_2</string>
+    <string name="pref_saved_lp_3">pref_saved_lp_3</string>
 </resources>
